@@ -1,0 +1,2 @@
+force,speed,lifeTime,minTime,maxTime,Points,Bonus,freezer,speedup,BallsCount,freezTime
+200,10,5,5,10,5,50,10,25,10,4
